@@ -4,6 +4,8 @@
 
 Create a sample of 0.3sec or less in Audacity or any other audio editor and output the RAW data. After that, you can easily spit out the binary data by drag and dropping the RAW data onto the page, It will then spit out the binary data and you can use these in your projects.
 
+[Converter Link](https://deadpanne.github.io/rawdata/)
+
 #### Description
 
 When handling large data, if the system can operate files, it can be handled by reading and writing files, but Arduino alone has no choice but to have data in the program area.
